@@ -1,0 +1,4 @@
+# Apps to show on the TV Detox home screen, one package name per line.
+# com.google.android.youtube.tv
+# com.netflix.ninja
+# com.amazon.amazonvideo.livingroom

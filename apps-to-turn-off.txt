@@ -1,0 +1,16 @@
+# One package name per line. Lines starting with # are ignored.
+# Run 2-connect-and-scan.bat first, then look at snapshot-before\apps-system.txt and
+# apps-installed-by-you.txt. If you're not sure what an app does, leave it on.
+# The scripts refuse to turn off protected apps (setup, input/HDMI/tuner, keyboard,
+# Bluetooth, remote, launchers, Google Play services, Settings, System UI) even if listed.
+#
+# Example: what was turned off on an Anker Nebula Capsule 3 Laser (D2426, Google TV, Android 14).
+# Remove the # in front of the ones you want.
+# fusion.android.tv.demo
+# com.zhixin.nebularetailmode
+# com.google.android.feedback
+# com.android.tv.feedbackconsent
+# com.google.android.play.games
+# com.google.android.youtube.tvmusic
+# com.zhixin.nebulaplay
+# com.zhixin.nebulalife

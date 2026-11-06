@@ -1,0 +1,7 @@
+platform-tools/
+platform-tools.zip
+*.apk
+logs/
+undo/
+snapshot-*/
+tv-address.txt

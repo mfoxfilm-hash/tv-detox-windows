@@ -1,0 +1,9 @@
+# namespace key new-value. The old value is saved before each change, and undo.bat puts it back.
+# Animations off:
+global window_animation_scale 0
+global transition_animation_scale 0
+global animator_duration_scale 0
+# Sleep after 5 minutes (milliseconds):
+secure sleep_timeout 300000
+# Screensaver starts after 2 minutes. Keep it on if your TV is OLED (burn-in protection).
+system screen_off_timeout 120000
